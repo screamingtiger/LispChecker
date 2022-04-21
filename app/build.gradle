@@ -33,7 +33,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'lisp.App'
+    mainClass = 'Lisp.App'
 }
 
 tasks.named('test') {
